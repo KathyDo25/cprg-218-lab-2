@@ -50,7 +50,7 @@ Instructions:
 ### Spaghetti and Meatballs
 
 Ingredients:
-- 1 pound spaghetti
+- 2 pound spaghetti
 - 1 pound ground beef
 - 1/2 cup bread crumbs
 - 1/4 cup milk
@@ -72,7 +72,7 @@ Instructions:
 ### Grilled Chicken Sandwich
 
 Ingredients:
-- 2 boneless, skinless chicken breasts
+- 3 boneless, skinless chicken breasts
 - Salt and pepper to taste
 - 2 tablespoons olive oil
 - 4 slices Swiss cheese
